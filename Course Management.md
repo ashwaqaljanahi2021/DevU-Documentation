@@ -46,4 +46,8 @@
 4. Use the search bar at the top of the page to find a specific student's submission.
 5. In the table, you will see the student emails along with their scores and feedback (if applicable).
 
+## View Gradebook
+1. On the course page, you can view the gradebook by clicking Gradebook under the course name.
+2. The Gradebook will display each assignment, along with the scores for each student, and indicate whether the student has dropped the assignment.
+
 
