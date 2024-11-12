@@ -24,6 +24,6 @@ This repository will serve as a guide, primarily for instructors and students, o
     * [Add/Drop Students](Course%20Management.md#Add-Drop-Students)
     * [View Course Page](Course%20Management.md#View-Course's-Page)
     * [View Assignment Page](Course%20Management.md#View-Assignment's-Page)
-    * [View Submissions](Course%20Management.md#View-Submissions)
+    * [View Submissions and Grade Submissions](Course%20Management.md#View-Submissions)
     * [View Gradebook](Course%20Management.md#Gradebook)
 
