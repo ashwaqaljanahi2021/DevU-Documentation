@@ -15,7 +15,7 @@ This repository will serve as a guide, primarily for instructors and students, o
     * [View Assignment Page](Navigating%20Through%20a%20Course.md#View-Assignment-Page)
     * [Make a Submission for an Assignment](Navigating%20Through%20a%20Course.md#Make-Submission)
     * [View Submissions](Navigating%20Through%20a%20Course.md#View-Submissions)
-    * [View Grades for a Course](Navigating%20Through%20a%20Course.md#View-Gradebook)
+    * [View Gradebook](Navigating%20Through%20a%20Course.md#View-Gradebook)
 * [Getting Started For Instructor](Getting%20started%20For%Instructor.md)
     * [Login](Getting%20started%20For%Instructor.md#your-first-login)
     * [Create a Course](Getting%20started%20For%Instructor.md#Create-a-Course)
