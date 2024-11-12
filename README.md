@@ -9,7 +9,7 @@ This repository will serve as a guide, primarily for instructors and students, o
 ## Table of Contents
 * [Getting Started For Student](Getting%20Started%20For%20Student.md)
     * [Login](Getting%20Started%20For%20Student.md#Login)
-    * [Enroll in a Course](Getting%20started.md#Enroll-in-a-Course)
+    * [Enroll in a Course](Getting%20Started%20For%20Student.md#Enroll-in-a-Course)
 * [Navigating Through a Course](Navigating%20Through%20a%20Course.md)
     * [View Course's Page](Navigating%20Through%20a%20Course.md#View-Course-Page)
     * [View Assignment's Page](Navigating%20Through%20a%20Course.md#View-Assignment-Page)
