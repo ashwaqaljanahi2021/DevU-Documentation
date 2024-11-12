@@ -8,7 +8,7 @@ This repository will serve as a guide, primarily for instructors and students, o
 
 ## Table of Contents
 * [Getting Started For Student](Getting%20Started%20For%20Student.md)
-    * [Your First Login](Getting%20started.md#your-first-login)
+    * [Login](Getting%20Started%20For%20Student.md#Login)
     * [Enroll in a Course](Getting%20started.md#Enroll-in-a-Course)
 * [Navigating Through a Course](Navigating%20Through%20a%20Course.md)
     * [View Course's Page](Navigating%20Through%20a%20Course.md#View-Course-Page)
@@ -17,7 +17,7 @@ This repository will serve as a guide, primarily for instructors and students, o
     * [View Submissions](Navigating%20Through%20a%20Course.md#View-Submissions)
     * [View Grades for a Course](Navigating%20Through%20a%20Course.md#View-Gradebook)
 * [Getting Started For Instructor](Getting%20started%20for%Instructor.md)
-    * [Your First Login](Getting%20started%20for%Instructor.md#your-first-login)
+    * [Login](Getting%20started%20for%Instructor.md#your-first-login)
     * [Create a Course](Getting%20started%20for%Instructor.md#Create-a-Course)
 * [Course Management](Course%20Management.md#Create-a-Course)
     * [Edit a Course](Course%20Management.md#Edit-a-Course)
