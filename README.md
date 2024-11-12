@@ -7,7 +7,7 @@ DevU is an automated software-grading platform being developed at the University
 This repository will serve as a guide, primarily for instructors and students, on how to use DevU.
 
 ## Table of Contents
-* [Getting Started For Student](Getting%20started%20for%20Student.md)
+* [Getting Started For Student](Getting%20started%20for%20Students.md)
     * [Your First Login](Getting%20started.md#your-first-login)
     * [Enroll in a Course](Getting%20started.md#Enroll-in-a-Course)
 * [Navigating Through a Course](Navigating%20Through%20a%20Course.md)
