@@ -17,7 +17,7 @@ This repository will serve as a guide, primarily for instructors and students, o
     * [View Submissions](Navigating%20Through%20a%20Course.md#View-Submissions)
     * [View Gradebook](Navigating%20Through%20a%20Course.md#View-Gradebook)
 * [Getting Started For Instructor](Getting%20Started%20For%Instructor.md)
-    * [Login](Getting%20Started%20For%Instructor.md#your-first-login)
+    * [Login](Getting%20Started%20For%Instructor.md#Login)
     * [Create a Course](Getting%20Started%20For%Instructor.md#Create-a-Course)
 * [Course Management](Course%20Management.md#Create-a-Course)
     * [Edit a Course](Course%20Management.md#Edit-a-Course)
